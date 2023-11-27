@@ -1,0 +1,60 @@
+Atividade 4 - IHC - 1ADS-AMS - 2023/2
+
+Instruções
+Instruções:
+
+1) Faça uma cópia do protótipo criado para o aplicativo e-commerce de perfumes e aplique os Designs Patterns a seguir:
+
+Menus
+
+Horizontal Dropdown Menu
+https://ui-patterns.com/patterns/HorizontalDropdownMenu
+
+Content
+
+Pagination
+https://ui-patterns.com/patterns/Pagination
+
+Cards
+https://ui-patterns.com/patterns/cards
+
+
+Jumping in hierarchy
+
+Fat Footer
+https://ui-patterns.com/patterns/FatFooter
+
+
+Onboarding
+Walkthrough
+https://ui-patterns.com/patterns/Tour
+
+
+Registration
+
+Lazy Registration
+https://ui-patterns.com/patterns/LazyRegistration
+
+
+Social
+
+Testimonials
+https://ui-patterns.com/patterns/testimonials
+
+
+Product page
+
+Design Pattern
+https://ui-patterns.com/patterns/ProductPage
+
+2) Exporte o portifólio para HTML e CSS.
+
+3) Crie os links das páginas.
+
+4) Hospede o protótipo no FatecCloud para testes.
+
+5) Informe o link do FatecCloud na Atividade 4 e clique no botão Entregar.
+
+Meu trabalho
+
+https://projetos.fatecjales.edu.br/gabycustodio/ihc/introducao1/?classId=e0fc31de-6931-42ce-93bf-4743c71efcd9&assignmentId=f4d5a72c-0698-4d84-8f5d-6766a1a1608d&submissionId=c8085632-ca34-9949-c6eb-c4db3a5dbbf9

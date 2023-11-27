@@ -1,0 +1,11 @@
+Atividade 5 - IHC - 1ADS-AMS - 2023/2
+
+Instruções
+Após a escolha do projeto na aula, criar em um arquivo do FigJam os itens a seguir:
+Escopo do projeto das telas e os seus fluxos.
+Persona (representação fictícia do cliente ideal para uso do app).
+Em um arquivo do Bloco de Notas escreva o nome completo dos membros do grupo e anexe juntamente com o link compartilhado do projeto na Atividade 5 do Teams. Somente um aluno fará a postagem e a nota será a mesma para o grupo. Clique no botão Entregar. Apresente o projeto para a turma.
+Meu trabalho
+
+
+https://www.figma.com/file/CpeCYIMz7nHSo1TO7HuLtN/App-Parque-de-Divers%C3%B5es?type=whiteboard&node-id=0-1&classId=e0fc31de-6931-42ce-93bf-4743c71efcd9&assignmentId=8b7421ff-fb53-4743-9b53-c4ca8c330251&submissionId=f363de02-4003-a7e7-b8c4-4eaedfc8cc0c

@@ -1,0 +1,15 @@
+Atividade 3 - IHC - 1ADS-AMS - 2023/1
+
+Instruções
+Instruções:
+
+Faça uma cópia do projeto realizado na Atividade 2 (aplicativo e-commerce de perfumes) e aplique dois Designs Patterns disponíveis no link https://ui-patterns.com/
+
+Em um documento do Microsoft Word informe:
+- O link do projeto compartilhado no Figma.
+- Descreva em forma de texto os dois Designs Patterns aplicado no projeto, explicando o seu conceito e como foi usado no seu aplicativo e-commerce de perfumes. Anexe o arquivo .doc nessa Atividade 3 e clique no botão Entregar.
+Meu trabalho
+
+
+https://www.figma.com/proto/cZGkIDLr16JmCg2grt1NcT/e-commerce-Perfume?type=design&node-id=136-1157&scaling=scale-down&page-id=0%3A1&starting-point-node-id=136%3A1157&show-proto-sidebar=1&classId=e0fc31de-6931-42ce-93bf-4743c71efcd9&assignmentId=81bf1a5e-9db2-4c64-b9ca-93998d9c01be&submissionId=fd1b994d-83fd-5cbd-a7f8-868e9703ba59
+
